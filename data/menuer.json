@@ -1,0 +1,249 @@
+[
+    {
+      "month": "august",
+      "year": 2011,
+      "place": "Mathias Lauridsen",
+      "dish": "Londonfad"
+  },
+  {
+    "month": "september",
+    "year": 2011,
+    "place": "Mathias Mikkelsen",
+    "dish": "Dahl (Linseret med kylling på spinatseng)"
+  },
+  {
+    "month": "oktober",
+    "year": 2011,
+    "place": "Rasmus Gantzel",
+    "dish": "Londonfad",
+    "guests": "Liza Glanz"
+  },
+  {
+    "month": "november",
+    "year": 2011,
+    "place": "Mathias Mikkelsen",
+    "dish": "Sushi"
+  },
+  {
+    "month": "december",
+    "year": 2011,
+    "place": "Mathias Lauridsen",
+    "dish": "Risengrød (med nisseøl fra KB)"
+  },
+  {
+    "month": "januar",
+    "year": 2012,
+    "place": "Rasmus Gantzel",
+    "dish": "Mexikanske pandekager",
+    "guests": "Søren Rahbek"
+  },
+  {
+    "month": "februar",
+    "year": 2012,
+    "place": "Mathias Lauridsen",
+    "dish": "Hjemmelavede pizzaer",
+    "guests": "Morten Mikkelsen"
+  },
+  {
+    "month": "marts",
+    "year": 2012,
+    "place": "Mathias Mikkelsen",
+    "dish": " Enebærgryde med kartoffelmos",
+    "dessert": "Kanelsnegle"
+  },
+  {
+    "month": "april",
+    "year": 2012,
+    "place": "Rasmus Gantzel",
+    "dish": "Svinehjerter i paprikasovs"
+  },
+  {
+    "month": "maj",
+    "year": 2012,
+    "place": "Mathias Lauridsen",
+    "dish": "Koteletter i fad med ris"
+  },
+  {
+    "month": "august",
+    "year": 2012,
+    "place": "Mathias Mikkelsen",
+    "dish": "Forloren Hare med kartofler og sovs",
+    "dessert": "Chokolade Muffins"
+  },
+  {
+    "month": "september",
+    "year": 2012,
+    "place": "Rasmus Gantzel",
+    "dish": "Moussaka med brød og tzatziki",
+    "guests": "Mikkel Balle Lauridsen"
+  },
+  {
+    "month": "oktober",
+    "year": 2012,
+    "place": "Simon Christensen",
+    "dish": "Karbonader med kartofler og sovs",
+    "dessert": "Lines gulerodskage"
+  },
+  {
+    "month": "november",
+    "year": 2012,
+    "place": "Mathias Lauridsen",
+    "dish": "Kalkunbryst med pikantost og bacon"
+  },
+  {
+    "month": "december",
+    "year": 2012,
+    "place": "Mathias Mikkelsen",
+    "dish": "Hvidvinsdampet fisk med kartofler"
+  },
+  {
+    "month": "januar",
+    "year": 2013,
+    "place": "Rasmus Gantzel",
+    "dish": "Oksesteaks med ærter francaise"
+  },
+  {
+    "month": "februar",
+    "year": 2013,
+    "place": "Simon Christensen",
+    "dish": "Kyllingefiletter med pikantost og skinke, kartofler og hvidløgsbrød",
+    "dessert": "Lines banankage og bars"
+  },
+  {
+    "month": "marts",
+    "year": 2013,
+    "place": "Mathias Lauridsen",
+    "dish": "Farseret porre med hjemmelavede fritter og aioli og råkostsalat"
+  },
+  {
+    "month": "april",
+    "year": 2013,
+    "place": "Rasmus Gantzel",
+    "dish": "Ovnbagt laks med kartofler og spinatsovs",
+    "dessert": "Citronfromage"
+  },
+  {
+    "month": "maj",
+    "year": 2013,
+    "place": "Mathias Mikkelsen",
+    "dish": "Frokostbuffet: Lakseruller m. rejer, skinke-broccoli tærte og pastasalat"
+  },
+  {
+    "month": "august",
+    "year": 2013,
+    "place": "Simon Christensen",
+    "dish": "Hjemmelavede røstikartofler, hakkebøf i brun sovs, hvidløgsbrød",
+    "dessert": "Kanelsnegle"
+  },
+  {
+    "month": "september",
+    "year": 2013,
+    "place": "Mathias Lauridsen",
+    "dish": "Helstegt kylling med ratatouile",
+    "dessert": "Mirakelfrugt og citroner"
+  },
+  {
+    "month": "oktober",
+    "year": 2013,
+    "place": "Rasmus Gantzel",
+    "dish": "Tarteletter med høns i asparges, samt flødekartofler"
+  },
+  {
+    "month": "november",
+    "year": 2013,
+    "place": "Mathias Mikkelsen",
+    "dish": "Jordskokkesuppe samt chili con carne",
+    "dessert": "Jordskokkesuppe samt chili con carne"
+  },
+  {
+    "month": "december",
+    "year": 2013,
+    "place": "Simon Christensen",
+    "dish": "Flæskesteg med brun sovs, kartofler og rødkål"
+  },
+  {
+    "month": "januar",
+    "year": 2014,
+    "place": "Mathias Lauridsen",
+    "dish": "Hjortegryde med kartoffelmos"
+  },
+  {
+    "month": "februar",
+    "year": 2014,
+    "place": "Mathias Mikkelsen",
+    "dish": "Hvidvins Risotto med svampe"
+  },
+  {
+    "month": "marts",
+    "year": 2014,
+    "place": "Rasmus Gantzel",
+    "dish": "Stegt flæsk med persillesovs"
+  },
+  {
+    "month": "april",
+    "year": 2014,
+    "place": "Simon Christensen",
+    "dish": "Bowling, Buffet og Bold"
+  },
+  {
+    "month": "maj",
+    "year": 2014,
+    "place": "Mathias Lauridsen",
+    "dish": "Oksemørbrad, majs og bagte kartofler"
+  },
+  {
+    "month": "august",
+    "year": 2014,
+    "place": "Mathias Mikkelsen",
+    "dish": "Tomatsuppe og æggekage med bacon"
+  },
+  {
+    "month": "september",
+    "year": 2014,
+    "place": "Rasmus Gantzel",
+    "dish": "Spaghetti Carbonara med bruschetta"
+  },
+  {
+    "month": "oktober",
+    "year": 2014,
+    "place": "Simon Christensen",
+    "dish": "Svinemørbrad med brun sovs, bønner og hasselbagtekartofler"
+  },
+  {
+    "month": "november",
+    "year": "2014",
+    "place": "Mathias Lauridsen",
+    "dish": "Caribisk and med ris og ovnstegte rodfrugter"
+  },
+  {
+    "month": "december",
+    "year": 2014,
+    "place": "Mathias Mikkelsen",
+    "dish": "Mørbradsgryde med ris og brød",
+    "missing": "Simon Christensen"
+  },
+  {
+    "month": "januar",
+    "year": 2015,
+    "place": "Rasmus Gantzel",
+    "dish": "Kyllingestykker i baconsvøb med rösti og guacamole"
+  },
+  {
+    "month": "februar",
+    "year": 2015,
+    "place": "Simon Christensen",
+    "dish": "Kylling i karry"
+  },
+  {
+    "month": "marts",
+    "year": 2015,
+    "place": "Mathias Lauridsen",
+    "dish": "Oksesteg med bagte kartofler og rodfrugter"
+  },
+  {
+    "month": "september",
+    "year": 2015,
+    "place": "Mathias Mikkelsen",
+    "dish": "Friske forårsruller"
+  }
+]

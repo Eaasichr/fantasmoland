@@ -1,0 +1,19 @@
+<form role="form" method="post">
+    <div class="form-group">
+        <label for="month">Måned:</label>
+        <input type="text" class="form-control" id="month" name="month" ng-model="month">
+    </div>
+    <div class="form-group">
+        <label for="year">År:</label>
+        <input type="number" class="form-control" id="year" name="year" ng-model="year">
+    </div>
+    <div class="form-group">
+        <label for="place">Sted:</label>
+        <input type="text" class="form-control" id="place" name="place" ng-model="place">
+    </div>
+    <div class="form-group">
+        <label for="dish">Ret:</label>
+        <input type="text" class="form-control" id="dish" name="dish" ng-model="dish">
+    </div>
+    <button ng-click="createDish()" class="btn btn-default">Opret</button>
+</form>

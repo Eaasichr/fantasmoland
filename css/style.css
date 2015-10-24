@@ -1,0 +1,11 @@
+.panel{
+    min-height: 173px;
+}
+
+.btn-danger{
+  float: right;
+}
+
+.panel-heading{
+	overflow: hidden;
+}

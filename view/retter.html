@@ -1,0 +1,22 @@
+<div class="row">
+    <div ng-repeat="menu in menuer">
+        <form novalidate method="post">
+            <div class="col-md-4">
+                <div class="panel panel-primary">
+                    <div class="panel-heading">
+                        Sted: {{menu.place}}
+                        <button ng-click="removeDish(menu._id)" class="btn btn-danger">Delete</button>
+                    </div>
+                    <div class="panel-body">
+                        Måned: {{menu.month}}<br/>
+                        År: {{menu.year}}<br/>
+                        Ret: {{menu.dish}}
+                        <span ng-if="menu.dessert"><br/>Dessert: {{menu.dessert}}</span>
+                        <span ng-if="menu.guests"><br/>Gæster: {{menu.guests}}</span>
+                        <span ng-if="menu.missing"><br/>Mangler: {{menu.missing}}</span>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
