@@ -49,7 +49,10 @@ app.post('/addDish', function(req, res) {
         "month": req.body.month,
         "year": req.body.year,
         "place": req.body.place,
-        "dish": req.body.dish
+        "dish": req.body.dish,
+        "dessert": req.body.dessert,
+        "missing": req.body.missing,
+        "guests": req.body.guests
     }, function(err, result){
         console.log("Inserted a document into the fantasmoland collection");
         res.send(200);
