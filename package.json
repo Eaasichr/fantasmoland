@@ -6,10 +6,15 @@
     "bootstrap": "^3.3.2",
     "express": "^4.13.3",
     "fs": "0.0.2",
+    "gulp": "^3.9.0",
     "jquery": "^2.1.4",
     "mongoose": "^4.1.12"
   },
   "engines": {
     "node": "4.0.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.9.11",
+    "nodemon": "^1.8.0"
   }
 }

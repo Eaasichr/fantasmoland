@@ -44,12 +44,6 @@ app.get("/menuer", function(req, res){
     });
 });
 
-
-var menuer = require("./data/menuer.json");
-console.log(menuer);
-
-
-
 app.post('/addDish', function(req, res) {
     db.collection('fantasmoland').insertOne({
         "month": req.body.month,
@@ -78,7 +72,6 @@ app.post('/removeDish', function(req, res){
 
 
 var server = app.listen(app.get('port'), function(){
-
 	console.log("Listening on port " + app.get('port'));
 });
 

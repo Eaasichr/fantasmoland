@@ -5,7 +5,8 @@
                 <div class="panel panel-primary">
                     <div class="panel-heading">
                         Sted: {{menu.place}}
-                        <button ng-click="removeDish(menu._id)" class="fa fa-trash-o pull-right"></button>
+                        <button ng-click="removeDish(menu._id)" class="fa fa-trash pull-right"></button>
+                        <button ng-click="updateDish(menu._id)" class="fa fa-pencil pull-right"></button>
                     </div>
                     <div class="panel-body">
                         Måned: {{menu.month}}<br/>
