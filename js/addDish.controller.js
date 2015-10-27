@@ -10,7 +10,10 @@
                 month: $scope.month,
                 year: $scope.year,
                 place: $scope.place,
-                dish: $scope.dish
+                dish: $scope.dish,
+                dessert: $scope.dessert,
+                missing: $scope.missing,
+                guests: $scope.guests
             }
             $http.post('http://188.166.0.128:3000/addDish', newDish)
                 .success(function (data) {
