@@ -6,6 +6,7 @@
   float: right;
 }
 
-.panel-heading{
-	overflow: hidden;
+button{
+	background-color: transparent;
+	border: 0;
 }
