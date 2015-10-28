@@ -4,5 +4,5 @@ $json = file_get_contents($url);
 $json_data = json_decode($json, true);
 echo $json;
 
-file_put_contents('/fantasmoland/parking.json', $json);
+file_put_contents('/parking.json', $json);
 ?>
